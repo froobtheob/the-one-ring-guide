@@ -1,0 +1,1 @@
+The most effective armour in Middle-earth, made of interlocking metal rings for superior protection. Variants include mail shirts (torso protection) and coats of mail (torso and arm protection).

@@ -1,0 +1,1 @@
+The **Shadow Path** represents the personal descent heroes take if they fail to resist the influence of the Shadow.

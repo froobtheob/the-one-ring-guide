@@ -1,0 +1,1 @@
+**Skills** represent the abilities a Player-hero has developed. Their values are recorded by filling in the appropriate number of boxes. Some Skills may be marked as **Favoured**, indicating the character’s particular talent in that area.

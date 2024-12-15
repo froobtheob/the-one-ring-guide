@@ -1,0 +1,1 @@
+Under the pressure of the **Shadow**, heroes may develop **Flaws**, succumbing to simpler, more primitive emotions. This can lead to trading respect for arrogance, love for lust, or trust for suspicion.

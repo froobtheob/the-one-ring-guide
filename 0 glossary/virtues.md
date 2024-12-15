@@ -1,0 +1,1 @@
+**Virtues** are unique abilities or special talents tied to a hero’s culture. A new Virtue is gained whenever a Player-hero advances to a higher **WISDOM** rank.

@@ -1,0 +1,1 @@
+A fighting variation of the common woodcutting tool, often used by adventurers from forested regions.

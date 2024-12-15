@@ -1,0 +1,1 @@
+Made from hardened animal hide, lightweight and comfortable, ideal for hunters and travelers. Can be crafted as a shirt or corslet.

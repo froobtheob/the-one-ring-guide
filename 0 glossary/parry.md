@@ -1,0 +1,1 @@
+A hero’s **Parry** score reflects their skill in deflecting or avoiding incoming attacks.

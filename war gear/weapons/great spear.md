@@ -1,0 +1,1 @@
+The longest of spears, designed for two-handed use in melee, unsuitable for throwing.

@@ -1,0 +1,1 @@
+A one-handed straight blade with double edges, used for thrusting or hewing, and the most common type of sword.

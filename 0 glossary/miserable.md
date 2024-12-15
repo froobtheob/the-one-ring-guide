@@ -1,0 +1,1 @@
+The **Miserable** condition is marked when a Player-hero succumbs to overwhelming despair. A **Miserable** character struggles to succeed in actions — any roll showing an **Eye of Sauron** symbol automatically fails, regardless of the result.
