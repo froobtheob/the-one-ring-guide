@@ -1,0 +1,1 @@
+**Treasure** consists of valuable materials like silver, gold, and precious gems. This space records the **Treasure Points** a Player-hero acquires.

@@ -1,0 +1,1 @@
+A simple hunting bow, measuring up to five feet for quicker stringing.

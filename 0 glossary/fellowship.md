@@ -1,0 +1,1 @@
+**Fellowship** is a numerical value, typically equal to the number of Player-heroes in the Company, representing the bond of mutual trust shared by all its members.

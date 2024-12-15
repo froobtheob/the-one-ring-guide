@@ -1,0 +1,1 @@
+A versatile six-foot weapon that can be hurled as a javelin or thrust one-handed.

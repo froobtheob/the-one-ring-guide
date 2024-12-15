@@ -1,0 +1,1 @@
+**Load** refers to the weight and encumbrance of the gear carried by a Player-hero, potentially limiting their performance. Heroes are considered **Weary** as long as their **Endurance** score is equal to or lower than their Load total.

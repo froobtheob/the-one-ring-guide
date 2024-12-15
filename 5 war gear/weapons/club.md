@@ -1,0 +1,1 @@
+The simplest form of weapon, ranging from a crude heavy stick to an ornately carved staff symbolizing status.

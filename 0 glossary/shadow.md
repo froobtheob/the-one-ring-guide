@@ -1,0 +1,1 @@
+The accumulation of **Shadow Points** erodes a Player-hero’s **Hope**, weakening their spirit. Heroes are considered **Miserable** when their Hope score is equal to or lower than their current Shadow rating.

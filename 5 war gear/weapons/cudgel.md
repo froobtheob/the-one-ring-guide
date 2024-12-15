@@ -1,0 +1,1 @@
+A one-handed bashing implement like a small club or short staff.

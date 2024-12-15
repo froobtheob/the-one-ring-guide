@@ -1,0 +1,1 @@
+The most versatile weapon, usable for throwing or in melee with one or two hands.

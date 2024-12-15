@@ -1,0 +1,1 @@
+Heroes can harden their will by trading accumulated **Shadow Points** for a single permanent **Shadow Scar**.

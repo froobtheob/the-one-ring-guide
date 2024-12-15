@@ -1,0 +1,1 @@
+Protective headgear made from leather, iron, or precious metals, often decorated and used for identification or ceremonial purposes.

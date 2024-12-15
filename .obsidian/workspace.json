@@ -4,67 +4,431 @@
     "type": "split",
     "children": [
       {
-        "id": "c248e525dd8e769d",
+        "id": "c9b0dd94f440c01c",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb4e4db2fbba38a",
+            "id": "7c5e7a37601ad835",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glossary.md",
+                "file": "3 distinctive features/distinctive features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "glossary"
+              "title": "distinctive features"
             }
           },
           {
-            "id": "7f38245f120d8e32",
+            "id": "4c3256359ae98d64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glossary.md",
+                "file": "4 standards of living/1 poor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "glossary"
+              "title": "1 poor"
             }
           },
           {
-            "id": "d80098daab08730b",
+            "id": "f82693a4737ae592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game terms/armour.md",
+                "file": "4 standards of living/2 frugal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "armour"
+              "title": "2 frugal"
             }
           },
           {
-            "id": "918d55e5bcafe93c",
+            "id": "6c5d8a0b12c7399d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "game terms/adventure and skill points.md",
+                "file": "4 standards of living/3 common.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "adventure and skill points"
+              "title": "3 common"
+            }
+          },
+          {
+            "id": "08f61e9a68d37c1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 standards of living/4 prosperous.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 prosperous"
+            }
+          },
+          {
+            "id": "d17af95c80d4fcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 standards of living/5 rich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 rich"
+            }
+          },
+          {
+            "id": "7d6858a120fe8965",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/axe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "axe"
+            }
+          },
+          {
+            "id": "2bec0fbaf0f1593a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/bow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bow"
+            }
+          },
+          {
+            "id": "beda9c7369037f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/club.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "club"
+            }
+          },
+          {
+            "id": "f29f9f58592fb24a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/cudgel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cudgel"
+            }
+          },
+          {
+            "id": "b0937bdfc979c46b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/dagger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dagger"
+            }
+          },
+          {
+            "id": "5d0ffc4be09fecfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/great axe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "great axe"
+            }
+          },
+          {
+            "id": "020a00809ff37b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/great bow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "great bow"
+            }
+          },
+          {
+            "id": "b5a25bdfe119fa61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/great spear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "great spear"
+            }
+          },
+          {
+            "id": "5c21f3fea0911d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/long-hafted axe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "long-hafted axe"
+            }
+          },
+          {
+            "id": "c01998f457c2ab81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/long sword.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "long sword"
+            }
+          },
+          {
+            "id": "c005c0268a5db9ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/mattock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mattock"
+            }
+          },
+          {
+            "id": "ea83fc7d5b535a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/short spear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "short spear"
+            }
+          },
+          {
+            "id": "24ce5bd7c78ebe1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/short sword.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "short sword"
+            }
+          },
+          {
+            "id": "856e9b43f25e4243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/spear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spear"
+            }
+          },
+          {
+            "id": "307cdee0db266527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/weapons/club.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "club"
+            }
+          },
+          {
+            "id": "a2365caed5418a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/armour and shields/leather armour.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "leather armour"
+            }
+          },
+          {
+            "id": "14b3e0fe42bd18ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/armour and shields/mail armour.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mail armour"
+            }
+          },
+          {
+            "id": "1e347e583a581586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 war gear/armour and shields/helm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "helm"
+            }
+          },
+          {
+            "id": "f460e22e99e98680",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 callings/captain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "captain"
+            }
+          },
+          {
+            "id": "243b285dda50476a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 callings/champion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "champion"
+            }
+          },
+          {
+            "id": "928467b8af5ccdf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 callings/messenger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "messenger"
+            }
+          },
+          {
+            "id": "8e8aceab7ffee904",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 callings/scholar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scholar"
+            }
+          },
+          {
+            "id": "c357aa373bc573e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 callings/champion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "champion"
+            }
+          },
+          {
+            "id": "2d87fa31db68e273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7 heroic cultures/todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 29
       }
     ],
     "direction": "vertical"
@@ -203,10 +567,41 @@
   },
   "active": "04a60335094a72aa",
   "lastOpenFiles": [
-    "game terms/attribute ratings.md",
-    "game terms",
-    "game terms/armour.md",
-    "glossary.md",
-    "game terms/adventure and skill points.md"
+    "6 callings/treasure hunter.md",
+    "7 heroic cultures/todo.md",
+    "6 callings/warden.md",
+    "6 callings/champion.md",
+    "6 callings/scholar.md",
+    "6 callings/messenger.md",
+    "6 callings/captain.md",
+    "0 glossary/virtues.md",
+    "7 heroic cultures",
+    "6 callings",
+    "0 glossary/valour.md",
+    "0 glossary/rewards.md",
+    "5 war gear/armour and shields/helm.md",
+    "5 war gear/armour and shields/shields.md",
+    "5 war gear/armour and shields/mail armour.md",
+    "5 war gear/armour and shields/leather armour.md",
+    "5 war gear/weapons/club.md",
+    "5 war gear/weapons/sword.md",
+    "5 war gear/weapons/spear.md",
+    "5 war gear/weapons/short sword.md",
+    "5 war gear/weapons/short spear.md",
+    "5 war gear/weapons/mattock.md",
+    "5 war gear/weapons/long sword.md",
+    "5 war gear/weapons/long-hafted axe.md",
+    "5 war gear/weapons/great spear.md",
+    "5 war gear/weapons/great bow.md",
+    "5 war gear/weapons/great axe.md",
+    "5 war gear/weapons/dagger.md",
+    "5 war gear/armour and shields",
+    "5 war gear/weapons",
+    "5 war gear",
+    "4 standards of living",
+    "3 distinctive features",
+    "glossary/Untitled",
+    "2 combat proficiencies",
+    "1 skills"
   ]
 }

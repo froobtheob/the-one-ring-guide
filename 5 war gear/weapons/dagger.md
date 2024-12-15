@@ -1,0 +1,1 @@
+One-handed blades with versatile uses, from skinning animals to settling disputes, and widely carried in wild lands.

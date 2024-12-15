@@ -1,0 +1,1 @@
+The **Name** field on the character sheet is for recording the chosen name of the Player-hero. Players are encouraged to select names appropriate to their culture, using the provided examples as a guide.

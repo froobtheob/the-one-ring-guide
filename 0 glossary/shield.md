@@ -1,0 +1,1 @@
+Equipping a **Shield** enhances a hero’s **Parry** rating, improving their ability to block attacks.

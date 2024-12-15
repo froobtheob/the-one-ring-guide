@@ -1,0 +1,1 @@
+**STRENGTH**, **HEART**, and **WITS** describe, respectively, the physical, spiritual, and mental profile of a character. These numerical scores are the primary building blocks of all heroes, representing their aptitudes and natural capabilities.

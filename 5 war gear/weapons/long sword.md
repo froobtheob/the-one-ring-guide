@@ -1,0 +1,1 @@
+A masterfully forged blade that can be wielded with one hand or both, made famous by Elves, Dwarves, and Men of the West.
