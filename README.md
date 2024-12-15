@@ -1,0 +1,1 @@
+Meant to be opened using [https://obsidian.md/](https://obsidian.md/)
