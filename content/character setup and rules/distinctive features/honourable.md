@@ -1,0 +1,1 @@
+You believe in acting fairly and doing what is morally right.  

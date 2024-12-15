@@ -1,0 +1,1 @@
+While not a Wizard, your methods are often crafty and sometimes devious.  

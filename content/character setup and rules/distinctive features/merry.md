@@ -1,0 +1,1 @@
+Your spirit is not easily discouraged, and you can find light in the darkest of shadows.

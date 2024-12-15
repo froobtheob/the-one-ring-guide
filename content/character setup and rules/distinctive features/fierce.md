@@ -1,0 +1,1 @@
+When provoked, or when you deem it necessary, you may allow your savage side to emerge.  

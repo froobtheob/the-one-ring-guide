@@ -1,0 +1,1 @@
+Your curious nature is easily aroused, often by what is not your concern. You are not easily deceived by appearances.

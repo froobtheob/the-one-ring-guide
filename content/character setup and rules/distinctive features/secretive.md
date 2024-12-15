@@ -1,0 +1,1 @@
+You do not easily share your thoughts and prefer to conceal your intentions, especially from outsiders.  

@@ -1,0 +1,1 @@
+You trust your capabilities to the point that you are not easily daunted, readily placing yourself in danger.  

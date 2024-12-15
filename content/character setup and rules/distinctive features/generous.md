@@ -1,0 +1,1 @@
+You give with open hands and heart, always mindful of the needs of others.  

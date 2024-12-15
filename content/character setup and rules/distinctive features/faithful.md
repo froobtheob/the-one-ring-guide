@@ -1,0 +1,1 @@
+You are steadfastly devoted to those ideals or individuals you have chosen to follow, and your unwavering loyalty often supports you in your deeds.  

@@ -1,0 +1,1 @@
+Always mindful of your surroundings, you observe the speech and behaviour of strangers keenly.  

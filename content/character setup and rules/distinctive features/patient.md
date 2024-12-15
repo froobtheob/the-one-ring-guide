@@ -1,0 +1,1 @@
+ You are slow to lose your temper and can endure delays, fools, or hardship without complaint.  

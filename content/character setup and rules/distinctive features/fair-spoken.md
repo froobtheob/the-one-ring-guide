@@ -1,0 +1,1 @@
+Your speech and manners are naturally pleasant and respectful, and your words rarely provoke offense.  

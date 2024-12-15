@@ -1,0 +1,1 @@
+Your wit is sharp, and you are ready to use it to your advantage.  
