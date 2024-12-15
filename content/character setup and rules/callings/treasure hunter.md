@@ -5,7 +5,7 @@ The echoes of ancient glory call to you—hoards of stolen treasures, guarded by
 ---
 
 #### **Favoured Skills**  
-Choose two Skills among **EXPLORE**, **SCAN**, and **STEALTH** and mark them as Favoured.  
+Choose two [[skills]] among **[[explore]]**, **[[scan]]**, and **[[stealth]]** and mark them as Favoured.  
 
 ---
 
@@ -15,4 +15,4 @@ Burglary encompasses the skillset of a master infiltrator—pickpocketing, lockp
 ---
 
 #### **Shadow Path: Dragon-sickness**  
-The allure of wealth is not without peril. The ancient curse of Dragon-sickness can consume even the most valiant, twisting a noble desire to recover lost relics into a selfish obsession. As the Shadow corrupts the heart, the treasures you hold dear may come to weigh heavier
+The allure of wealth is not without peril. The ancient curse of Dragon-sickness can consume even the most valiant, twisting a noble desire to recover lost relics into a selfish obsession. As the [[shadow]] corrupts the heart, the treasures you hold dear may come to weigh heavier

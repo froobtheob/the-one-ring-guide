@@ -1,1 +1,1 @@
-The **Weary** condition is marked when a Player-hero becomes burdened or fatigued. **Weary** characters face penalties when attempting actions.
+The **[[weary]]** condition is marked when a Player-hero becomes burdened or fatigued. **[[weary]]** characters face penalties when attempting actions.

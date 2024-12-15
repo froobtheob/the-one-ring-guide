@@ -1,1 +1,1 @@
-As tall as a Man, this potent bow requires strength and stature to use, capable of piercing the toughest armour.
+As tall as a Man, this potent [[bow]] requires strength and stature to use, capable of piercing the toughest [[armour]].

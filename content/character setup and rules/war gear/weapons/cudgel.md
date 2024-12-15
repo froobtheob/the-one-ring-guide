@@ -1,1 +1,1 @@
-A one-handed bashing implement like a small club or short staff.
+A one-handed bashing implement like a small [[club]] or short staff.

@@ -3,7 +3,7 @@
 - Use reasoning and eloquence to convince others of an idea or course of action  
 - Influence small groups, especially in settings like common halls  
 
-**Persuade** takes more time than other Personality Skills but can have a lasting effect on people’s actions. Heroes with a high **Persuade** score are often eloquent speakers, skilled in the art of persuasion, and can sway others with their words.
+**Persuade** takes more time than other Personality [[skills]] but can have a lasting effect on people’s actions. Heroes with a high **Persuade** score are often eloquent speakers, skilled in the art of persuasion, and can sway others with their words.
 
 ### Outcomes of Persuade Rolls
 - **Success**: Convince the audience that their position on a matter is flawed.  

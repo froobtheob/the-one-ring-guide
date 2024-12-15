@@ -1,1 +1,1 @@
-Player-heroes accumulate **Fatigue** points while on a journey. Fatigue temporarily increases a hero’s **Load** total, making it easier for them to become **Weary**.
+Player-heroes accumulate **Fatigue** points while on a journey. Fatigue temporarily increases a hero’s **[[load]]** total, making it easier for them to become **[[weary]]**.

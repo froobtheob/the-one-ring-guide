@@ -1,1 +1,1 @@
-A two-handed weapon with a heavy head capable of cleaving armour or crushing it like a club.
+A two-handed weapon with a heavy head capable of cleaving [[armour]] or crushing it like a [[club]].

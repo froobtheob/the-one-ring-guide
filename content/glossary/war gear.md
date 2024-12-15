@@ -1,1 +1,1 @@
-**War Gear** includes the weapons carried by a Player-hero, along with their associated stats and **Load** values.
+**War Gear** includes the weapons carried by a Player-hero, along with their associated stats and **[[load]]** values.

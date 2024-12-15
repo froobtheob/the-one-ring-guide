@@ -1,11 +1,11 @@
 **"Elrond is sending Elves, and they will get in touch with the Rangers, and maybe with Thranduil’s folk in Mirkwood."**
 
-The Wise foresee dark times ahead and urge the Free Peoples to unite against the growing shadow. Yet, divisions caused by distance and mistrust persist. You have taken it upon yourself to bridge these gaps, travelling to far-off lands to bring tidings and warnings of the coming peril.  
+The Wise foresee dark times ahead and urge the Free Peoples to unite against the growing [[shadow]]. Yet, divisions caused by distance and mistrust persist. You have taken it upon yourself to bridge these gaps, travelling to far-off lands to bring tidings and warnings of the coming peril.  
 
 ---
 
 #### **Favoured Skills**  
-Choose two Skills among **COURTESY**, **SONG**, and **TRAVEL** and mark them as Favoured.  
+Choose two [[skills]] among **[[courtesy]]**, **[[song]]**, and **[[travel]]** and mark them as Favoured.  
 
 ---
 
@@ -15,4 +15,4 @@ Through your wanderings, you have gained a familiarity with the customs, beliefs
 ---
 
 #### **Shadow Path: Wandering-Madness**  
-The life of a messenger is a lonely one, defined by ceaseless travel and fleeting connections. Over time, the endless road may lead to a loss of purpose or identity, leaving you adrift and questioning if you’ll ever find a place worth fighting for.  
+The life of a messenger is a lonely one, defined by ceaseless [[travel]] and fleeting connections. Over time, the endless road may lead to a loss of purpose or identity, leaving you adrift and questioning if you’ll ever find a place worth fighting for.  

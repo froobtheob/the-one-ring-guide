@@ -1,7 +1,7 @@
 **Stealth** allows a hero to:
 
 - Act in a secretive or furtive manner  
-- Hide, move quietly, or shadow others  
+- Hide, move quietly, or [[shadow]] others  
 
 Stealthy heroes rely on quickness, precision, and timing to carry out their tasks unnoticed. Hunters, burglars, and solitary fighters often use this skill to thrive in their trade.
 

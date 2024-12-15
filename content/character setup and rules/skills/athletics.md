@@ -5,7 +5,7 @@
 - Climbing  
 - Swimming  
 
-Heroes with strong **Athletics** skills demonstrate physical prowess, grace, and control—usually the result of consistent training and effort.
+Heroes with strong **Athletics** [[skills]] demonstrate physical prowess, grace, and control—usually the result of consistent training and effort.
 
 ### Outcomes of Athletics Rolls
 - **Success**: Achieves the desired outcome in the activity.  

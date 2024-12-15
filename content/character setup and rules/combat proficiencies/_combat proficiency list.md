@@ -1,6 +1,6 @@
 **Combat Proficiency Weapons**
 
-- **[[axes]]**: Axe, Great Axe, Long-hafted Axe, Mattock  
-- **[[bows]]**: Bow, Great Bow  
-- **[[spears]]**: Short Spear, Spear, Great Spear  
-- **[[swords]]**: Sword, Short Sword, Long Sword  
+- **[[axes]]**: [[axe]], [[great axe]], [[long-hafted axe]], [[mattock]]  
+- **[[bows]]**: [[bow]], [[great bow]]  
+- **[[spears]]**: Short [[spear]], [[spear]], Great [[spear]]  
+- **[[swords]]**: [[sword]], Short [[sword]], Long [[sword]]  
